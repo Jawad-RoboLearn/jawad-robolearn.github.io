@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1
 
-[fdProject 1 Title](/sample_page)
-`<img src="images/dummy_thumbnail.jpg?raw=true"/>`
+### [Resume Matcher Pipeline Using Sentence Embedding](/sample_page)
+#### Keywords: Big Data, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
