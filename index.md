@@ -1,10 +1,10 @@
-## Portfolio
+## Selected projects in data science, ML, and geospatial analytics.
 
 ---
 
 ### Category Name 1
 
-[Project 1 Title](/sample_page)
+[fdProject 1 Title](/sample_page)
 `<img src="images/dummy_thumbnail.jpg?raw=true"/>`
 
 ---
