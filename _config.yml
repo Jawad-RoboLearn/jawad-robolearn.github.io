@@ -1,13 +1,11 @@
-title: Harrison Yu # your name (or website title) here
-logo: "https://raw.githubusercontent.com/HarrisonJYU/harrisonjyu.github.io/master/images/selfie.png" # your photo (or logo) here
+title: Jawad Mehmood Butt # your name (or website title) here
+logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Full-stack data scientist with 2+ years of experience in analytics, machine learning and data engineering, 
-  currently finishing master of data science at University of San Francisco. Previously data at 
-  <a href="https://candid.org/about">Candid</a> , MetroData, WXY Studio, and Cornell.
+  I am a robotics researcher and engineer. The active research areas are bio-inspired robotics, adaptive controls, and learning-driven controls. Besides, i develop software for STM32 driven emnedded applications.  
   <br><br>
-  Been to 200+ cities. Enjoyed reading, tennis, and explore neighborhood on foot. 
+  Traveled 8 countries around Asia and Europe. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jawad-butt-788a86138/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
