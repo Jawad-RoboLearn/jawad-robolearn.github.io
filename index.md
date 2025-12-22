@@ -1,31 +1,17 @@
-### [Resume Matcher Pipeline Using Sentence Embedding](/sample_page)
-#### Keywords: Big DatRa, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
+### [MSCA Doctoral Research Fellow - Projects](/sample_page)
+#### This section outline the research and development projects carried during my doctoral research fellowship funded by Marie Sklowdoska-Curie actions. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-`<img src="images/dummy_thumbnail.jpg?raw=true"/>`
+### [Control Engineer - Projects](/sample_page)
+#### This section outline the research and development projects carried during my control engineering job at ASM Pacific Technology Hong Kong. 
 
 ---
 
-[Project 3 Title](http://example.com/)
-`<img src="images/dummy_thumbnail.jpg?raw=true"/>`
+### [M.Phil in Mechanical Automation Engineering - Projects](/sample_page)
+#### This section outline the research and development projects carried during my M.Phil. degree at The Chinese University of Hong Kong. 
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
----
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+### [Robotics Development and Control Engineering - Projects](/sample_page)
+#### This section outline the development projects carried during my robotics engineering job at Shanghai Yikun Engineering in Shanghai. 
