@@ -1,10 +1,10 @@
-## Selected projects in data science, ML, and geospatial analytics.
+## Active Research Projects (/sample_page).
 
 ---
 
 
 ### [Resume Matcher Pipeline Using Sentence Embedding](/sample_page)
-#### Keywords: Big Data, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
+#### Keywords: Big DatRa, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
