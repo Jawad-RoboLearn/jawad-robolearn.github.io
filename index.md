@@ -9,6 +9,6 @@
 ---
 
 <h2 style="color: green;">Projects</h2>
-### [See my projects here](/)
+### [See my projects here](/sample_page)
 ---
 
