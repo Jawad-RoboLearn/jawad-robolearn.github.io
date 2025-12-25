@@ -9,7 +9,7 @@
 ---
 
 <h2 style="color: green;">Published Research</h2>
-#### [See my projects here](/research)
+#### [See my published research here](/research)
 ---
 
 <h2 style="color: green;">Projects</h2>
