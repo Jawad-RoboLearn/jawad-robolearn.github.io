@@ -12,3 +12,6 @@
 ### [See my projects here](/sample_page)
 ---
 
+<h2 style="color: green;">Activities</h2>
+### [Activities in 2025](/sample_page)
+---
