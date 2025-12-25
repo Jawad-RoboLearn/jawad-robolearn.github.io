@@ -1,4 +1,4 @@
-### [Professional Career]
+### [Professional Career]()
 #### 01/2025 - 01/2028: Doctoral Research Fellow at University of Southern Denmark, Denmark
 #### 04/2023 - 01/2025: Control Engineer at ASM Pacific Technology, Hong Kong
 #### 08/2020 - 01/2023: M.Phil in Mechanical Automation Engineering at The Chinese University of Hong Kong
