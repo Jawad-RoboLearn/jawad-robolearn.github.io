@@ -8,3 +8,7 @@
 #### 2012-2014: BS Electronics Engineering at IIUI, Pakistan
 ---
 
+<h2 style="color: green;">Projects</h2>
+### [See my projects here](/)
+---
+
