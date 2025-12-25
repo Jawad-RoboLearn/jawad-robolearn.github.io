@@ -1,5 +1,6 @@
-<h2 style="color: blue;">Career Summary</h2>
+<h2 style="color: green;">Professional Summary</h2>
 #### 2025-2028: PhD Engineering (Biorobotics) at University of Southern Denmark
+#### 2025: Visiting Researcher at OTH Regensburg, Germany
 #### 2023-2024: Control Engineer at ASMPT Hong Kong
 #### 2020-2023: M.Phil Mechanical Automation Engineer at CUHK, Hong Kong
 #### 2019: Robotics Engineer at Shanghai Yikun, China
