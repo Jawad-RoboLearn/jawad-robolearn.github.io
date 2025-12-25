@@ -17,5 +17,5 @@
 ### 2025 - Attending MAESTRI doctoral training school and workshops at FMF Ljubljana, Slovenia. 
 ### 2025 - Attending MAESTRI doctoral training school and workshops at CAU Kiel, Germany. 
 ### 2025 - Joined PhD in Biorobotics Engineering at University of Southern Denmark
-### [To see my previous activities click here...](/sample_page)
+### [To see my previous activities click here...](/activities)
 ---
