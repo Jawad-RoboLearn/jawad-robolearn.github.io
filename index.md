@@ -13,10 +13,10 @@
 ---
 
 <h2 style="color: green;">Recent Activities</h2>
-### 2025 - I have completed three months long doctoral research exchange at OTH Regensburg, Germany. I have worked on stiffness characterization of Magnetoactive soft materials. 
-### 2025 - Attending MAESTRI doctoral training school and workshops at FMF Ljubljana, Slovenia. 
-### 2025 - Participated in first annual MAESTRI conference at FMF Ljubljana, Slovenia. I have presented a poster on magnetoactive soft robot locomotion. 
-### 2025 - Attending MAESTRI doctoral training school and workshops at CAU Kiel, Germany. 
-### 2025 - Joined PhD in Biorobotics Engineering at University of Southern Denmark
-### [To see my previous activities click here...](/activities)
+#### 2025 - I have completed three months long doctoral research exchange at OTH Regensburg, Germany. I have worked on stiffness characterization of Magnetoactive soft materials. 
+#### 2025 - Attending MAESTRI doctoral training school and workshops at FMF Ljubljana, Slovenia. 
+#### 2025 - Participated in first annual MAESTRI conference at FMF Ljubljana, Slovenia. I have presented a poster on magnetoactive soft robot locomotion. 
+#### 2025 - Attending MAESTRI doctoral training school and workshops at CAU Kiel, Germany. 
+#### 2025 - Joined PhD in Biorobotics Engineering at University of Southern Denmark
+#### [To see my previous activities click here...](/activities)
 ---
