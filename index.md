@@ -9,7 +9,7 @@
 ---
 
 <h2 style="color: green;">Published Research</h2>
-#### [See my published research here](/research)
+#### [Link to Google Scholar](/research)
 ---
 
 <h2 style="color: green;">Projects</h2>
