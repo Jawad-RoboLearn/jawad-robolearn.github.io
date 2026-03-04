@@ -9,7 +9,7 @@
 ---
 
 <h2 style="color: green;">Projects</h2>
-#### [Haptic Feedback for Soft Robotic Gripper]([https://github.com/Jawad-RoboLearn/jawad-robolearn.github.io/edit/master/sample_page.md](https://www.researchgate.net/profile/Jawad-Mehmood-Butt/publication/332374796_Design_Fabrication_and_Analysis_of_a_Sensorized_Soft_Robotic_Gripper/links/5db01d2292851c577eb9cbeb/Design-Fabrication-and-Analysis-of-a-Sensorized-Soft-Robotic-Gripper.pdf))
+#### [Haptic Feedback for Soft Robotic Gripper](https://ieeexplore.ieee.org/abstract/document/8688201/)
 ---
 
 <h2 style="color: green;">Recent Activities</h2>
