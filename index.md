@@ -13,7 +13,7 @@
 ---
 
 <h2 style="color: green;">Projects</h2>
-#### [See my projects here](/sample_page)
+#### [See my projects here](https://github.com/Jawad-RoboLearn/jawad-robolearn.github.io/edit/master/sample_page.md)
 ---
 
 <h2 style="color: green;">Recent Activities</h2>
