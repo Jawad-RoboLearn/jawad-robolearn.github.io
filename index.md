@@ -8,10 +8,6 @@
 #### 2012-2014: BS Electronics Engineering at IIUI, Pakistan
 ---
 
-<h2 style="color: green;">Published Research</h2>
-#### [Link to Google Scholar](/research)
----
-
 <h2 style="color: green;">Projects</h2>
 #### [Haptic Feedback for Soft Robotic Gripper]([https://github.com/Jawad-RoboLearn/jawad-robolearn.github.io/edit/master/sample_page.md](https://www.researchgate.net/profile/Jawad-Mehmood-Butt/publication/332374796_Design_Fabrication_and_Analysis_of_a_Sensorized_Soft_Robotic_Gripper/links/5db01d2292851c577eb9cbeb/Design-Fabrication-and-Analysis-of-a-Sensorized-Soft-Robotic-Gripper.pdf))
 ---
