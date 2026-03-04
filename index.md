@@ -9,7 +9,9 @@
 ---
 
 <h2 style="color: green;">Projects</h2>
-#### [Haptic Feedback for Soft Robotic Gripper](https://ieeexplore.ieee.org/abstract/document/8688201/)
+#### [Modeling of Soft Robotic Tail - 2021](https://ieeexplore.ieee.org/abstract/document/8664722/)
+#### [Shape memory polymer driven soft robot - 2018](https://ieeexplore.ieee.org/abstract/document/8664722/)
+#### [Haptic feedback for soft robotic gripper - 2018](https://ieeexplore.ieee.org/abstract/document/8688201/)
 ---
 
 <h2 style="color: green;">Recent Activities</h2>
